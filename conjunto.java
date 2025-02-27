@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class conjunto {
+public class conjunto {//aaaaaaa
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int tamanho1 = 0, tamanho2 =0, tamanho3 = 0, tamanho4 = 0, val = - 1, dif = 0, ind1 = 0, ind2 = 0;
